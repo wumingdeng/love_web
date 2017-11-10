@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="7px" height="4px"
+xml:space="preserve">
+<g id="56" transform="matrix(1, 0, 0, 1, -66.9, -46.3)">
+<radialGradient
+id="RadialGradID_745" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00297546, -0.000198364, 0.000106812, 0.00157166, 70.65, 48.75)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#E9765A;stop-opacity:0.643137" />
+<stop  offset="1"  style="stop-color:#FFECD9;stop-opacity:0.101961" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_745) " d="M72.8,47.75Q72.45 49.2 71.35 49.85L69.1 49.8Q67.95 49.1 68.1 47.7Q69.6 49.15 71.4 48.35L72.8 47.75" />
+<radialGradient
+id="RadialGradID_746" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000732422, 1.52588e-005, -1.52588e-005, 0.000762939, 67.55, 46.9)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.211765"  style="stop-color:#BA4027;stop-opacity:0.701961" />
+<stop  offset="1"  style="stop-color:#FFECD9;stop-opacity:0.0313725" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_746) " d="M66.9,46.95L67.1 46.5Q67.3 46.25 67.6 46.35Q67.75 46.3 68 46.55L68.15 46.95L67.95 47.4L67.55 47.55L67.1 47.4L66.9 46.95" />
+<radialGradient
+id="RadialGradID_747" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000732422, 1.52588e-005, -1.52588e-005, 0.000762939, 73.05, 46.95)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.211765"  style="stop-color:#BA4027;stop-opacity:0.701961" />
+<stop  offset="1"  style="stop-color:#FFECD9;stop-opacity:0.0313725" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_747) " d="M73.05,46.35Q73.3 46.35 73.45 46.6Q73.65 46.7 73.65 47.05L73.45 47.45L73 47.55L72.6 47.4L72.45 47L72.65 46.55L73.05 46.35" />
+<linearGradient
+id="LinearGradID_748" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00260925, 0, 0, 0.000244141, 70.25, 47.2)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#000000;stop-opacity:1" />
+<stop  offset="0.203922" style="stop-color:#230200;stop-opacity:1" />
+<stop  offset="0.458824" style="stop-color:#3D0500;stop-opacity:1" />
+<stop  offset="0.776471" style="stop-color:#340500;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#140201;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_748) " d="M68.85,46.8L69.2 46.9L71.5 46.85L71.8 46.8L71.95 46.75L72 46.75L72.2 46.85L72.25 46.9L72.45 47L72.4 47.05L72.3 47.05L72.2 47.1L71.3 47.35L70.85 47.4L70.8 47.4L70.3 47.5L69.65 47.45L69.3 47.45L69.05 47.4L68.55 47.2L68.5 47.2L68.4 47.1L68.3 47L68.3 46.95L68.4 46.85L68.7 46.75L68.75 46.75L68.85 46.8" />
+<path style="fill:#D6BEB6;fill-opacity:1" d="M68.75,46.75L68.85 46.7L69.35 46.6L69.45 46.55L69.5 46.55L70.3 46.6L70.85 46.5L70.95 46.5L71.2 46.55L71.95 46.75L71.8 46.8L71.5 46.85L69.2 46.9L68.85 46.8L68.75 46.75" />
+</g>
+</svg>

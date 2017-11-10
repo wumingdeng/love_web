@@ -1,0 +1,9 @@
+{
+	"version":"0.1.3",
+	"serverAddress":"http://180yxd.sujudao.com:8092",
+	"adminServerAddress":"http://121.40.254.174:8101",
+	"machineServerAddress":"http://180yxd.sujudao.com:8097",
+	"webAddress":"http://180yxd.sujudao.com/yxd",
+	"wechatServerAddress":"http://180yxd.sujudao.com:81",
+	"appId":"wxdaeb445b12782d47"
+}

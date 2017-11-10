@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="7px" height="12px"
+xml:space="preserve">
+<g id="500" transform="matrix(1, 0, 0, 1, -87.85, -44.7)">
+<radialGradient
+id="RadialGradID_4273" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00088501, 3.05176e-005, -9.15527e-005, 0.00424194, 90.85, 48.45)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.313725"  style="stop-color:#FFFFFF;stop-opacity:0.670588" />
+<stop  offset="1"  style="stop-color:#FFFFFF;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_4273) " d="M91.5,50.45Q91.2 51.15 90.9 51.15Q90.5 51.15 90.15 50.4Q89.9 49.6 89.9 48.45Q89.95 47.35 90.25 46.65Q90.6 45.9 91 45.9Q91.3 45.9 91.6 46.7L91.9 48.5L91.5 50.45" />
+<path style="fill:#823909;fill-opacity:1" d="M93.4,53.65Q93.4 54.1 92.8 54.15L91.7 54.75Q92.35 53.85 92.85 53.7L93.4 53.65M88.65,54.05Q88.65 53.75 89.15 53.8Q89.7 53.95 90.45 54.85Q90.15 54.45 89.35 54.35L88.65 54.05" />
+<radialGradient
+id="RadialGradID_4274" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0059967, 0, 0, 0.00701904, 91.25, 50.35)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#DA8069;stop-opacity:1" />
+<stop  offset="0.988235"  style="stop-color:#FDCAAF;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_4274) " d="M92.3,45.05Q92.6 47.4 93.65 50.15L94.45 52.65L94.5 52.95L94.25 54L93.3 54.6L92.25 55.3L92 55.5L91.3 55.75L90.65 55.65L90.6 55.6L90.6 55.55L89.9 55.15Q88.9 54.6 88.3 54.6L87.9 54.1L87.85 53.5L87.95 53.05L88.1 52.75L88.75 52.45L89.1 52.4L89.45 52.45L90.75 52.75Q91.7 52.75 92 52.35Q92.3 51.95 92.3 50.75L92.15 46.05L92.2 44.7L92.3 45.05M92.85,53.7Q92.35 53.85 91.7 54.75L92.8 54.15Q93.4 54.1 93.4 53.65L92.85 53.7M89.35,54.35Q90.15 54.45 90.45 54.85Q89.7 53.95 89.15 53.8Q88.65 53.75 88.65 54.05L89.35 54.35" />
+</g>
+</svg>

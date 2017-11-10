@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="3px" height="5px"
+xml:space="preserve">
+<g id="523" transform="matrix(1, 0, 0, 1, -68.8, -40.4)">
+<radialGradient
+id="RadialGradID_4328" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.000213623, -0.00471497, 0.00263977, -0.00012207, 70.25, 45.85)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FBB99D;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FFECD9;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_4328) " d="M69.5,45.05Q67.85 44.7 70 40.4Q71.55 43.1 71.35 44.25Q71.15 45.35 69.5 45.05" />
+<path style="fill:#823909;fill-opacity:1" d="M70.55,44.7Q70.75 44.45 71.05 44.7L70.7 44.8L70.4 44.95L70.55 44.7M69.75,44.95L69.45 44.8L69.05 44.7Q69.35 44.45 69.55 44.7L69.75 44.95" />
+<radialGradient
+id="RadialGradID_4329" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000366211, 1.52588e-005, -3.05176e-005, 0.00177002, 69.75, 41.8)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.313725"  style="stop-color:#FFFFFF;stop-opacity:0.670588" />
+<stop  offset="1"  style="stop-color:#FFFFFF;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_4329) " d="M70.1,42.65L69.8 42.95L69.5 42.6L69.4 41.75L69.55 41L69.85 40.75L70.15 41.05L70.2 41.8L70.1 42.65" />
+<radialGradient
+id="RadialGradID_4330" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000366211, 1.52588e-005, -1.52588e-005, 0.000686646, 69.5, 43.8)" spreadMethod ="reflect" cx="0" cy="0" r="819.2" fx="85032" fy="0" >
+<stop  offset="0.313725"  style="stop-color:#FFFFFF;stop-opacity:0.670588" />
+<stop  offset="1"  style="stop-color:#FFFFFF;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_4330) " d="M69.85,44.1L69.55 44.25L69.25 44.05L69.15 43.75L69.25 43.45L69.55 43.4L69.85 43.5L69.95 43.8L69.85 44.1" />
+</g>
+</svg>

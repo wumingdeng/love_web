@@ -1,0 +1,4 @@
+build/*.js
+config/*.js
+src
+src/framework7-vue/*.js

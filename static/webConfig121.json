@@ -1,0 +1,10 @@
+{
+	"version":"0.1.3",
+	"serverAddress":"http://yzxs.sujudao.com:8092",
+	"adminServerAddress":"http://121.40.254.174:8101",
+	"machineServerAddress":"http://yzxs.sujudao.com:8097",
+	"webAddress":"http://qiniu.sujudao.com/yxd",
+	"wechatServerAddress":"http://yzxs.sujudao.com:81",
+	"appId":"wxdaeb445b12782d47",
+	"webPath":"hdj"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="4px" height="6px"
+xml:space="preserve">
+<g id="533" transform="matrix(1, 0, 0, 1, -68.2, -39.8)">
+<radialGradient
+id="RadialGradID_4344" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0027771, -9.15527e-005, 0.00012207, 0.00340271, 70.35, 43.3)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.109804"  style="stop-color:#FCC4B6;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FFECD9;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_4344) " d="M69.15,43.9L69.7 44L70.5 43.95Q70.85 43.7 71.05 43.8L71.75 44.3L72 44.6L71.5 44.6L70.7 44.9L69.55 44.85L68.2 44.6L68.7 44.2Q68.95 43.95 69.15 43.9" />
+<radialGradient
+id="RadialGradID_4345" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000534058, 0, 1.52588e-005, 0.00221252, 69.65, 41.15)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.313725"  style="stop-color:#FFFFFF;stop-opacity:0.670588" />
+<stop  offset="1"  style="stop-color:#FFFFFF;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_4345) " d="M70.1,42.15L69.7 42.5Q69.45 42.5 69.3 42.15L69.1 41.15L69.3 40.2Q69.45 39.8 69.7 39.8L70.1 40.2L70.3 41.15L70.1 42.15" />
+<path style="fill:#D38767;fill-opacity:1" d="M69.7,44.65Q69.15 43.95 68.65 44.2Q69.3 43.65 69.7 44.65M71.5,44.05Q70.95 43.95 70.5 44.55Q70.8 43.65 71.5 44.05" />
+<radialGradient
+id="RadialGradID_4346" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000534058, -1.52588e-005, -3.05176e-005, 0.000869751, 69.7, 43.05)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.313725"  style="stop-color:#FFFFFF;stop-opacity:0.670588" />
+<stop  offset="1"  style="stop-color:#FFFFFF;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_4346) " d="M70.1,43.45L69.75 43.6L69.3 43.5L69.1 43.1L69.35 42.75L69.8 42.55Q70 42.55 70.15 42.7L70.3 43.05L70.1 43.45" />
+</g>
+</svg>
