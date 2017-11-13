@@ -118,10 +118,10 @@ export default {
             return "width:"+(this.sex==0?"37%":"32%")+";position:Absolute;"+(this.sex==0?"top:71%;left:33%":"top:73%;left:36%")+";z-index:500"
         },
         eyeStylel(){
-            return "width:"+(this.sex==0?"46%":"43%")+";position:Absolute;"+(this.sex==0?"top:25%;left:10%":"top:32%;left:10%")+";z-index:300"
+            return "width:"+(this.sex==0?"43%":"40%")+";position:Absolute;"+(this.sex==0?"top:25%;left:12%":"top:32%;left:10%")+";z-index:300"
         },
         eyeCloneStylel(){
-            return "width:"+(this.sex==0?"46%":"43%")+";position:Absolute;"+(this.sex==0?"top:25%;left:46%":"top:32%;left:47%")+";transform:scale(-1,1);z-index:301"
+            return "width:"+(this.sex==0?"43%":"40%")+";position:Absolute;"+(this.sex==0?"top:25%;left:46%":"top:32%;left:47%")+";transform:scale(-1,1);z-index:301"
         },
         meimaoStylel(){
             return "width:"+(this.sex==0?"45%":"45%")+";position:Absolute;"+(this.sex==0?"top:15%;left:10%":"top:21.5%;left:8%")+";z-index:400"
@@ -361,8 +361,8 @@ export default {
             console.log(fileName)
             switch (this.partIdx) {
                 case 0:
-                    var styleStr = "width:"+(this.sex==0?'50%':'40%')+";position:Absolute;"+(this.sex==0?"top:25%;left:10%":"top:32%;left:10%")+";z-index:300"
-                    var cloneStyleStr = "width:"+(this.sex==0?'50%':'40%')+";position: Absolute;"+(this.sex==0?"top:25%;left:46%":"top:32%;left:47%")+";transform:scale(-1,1);z-index:301"
+                    var styleStr = "width:"+(this.sex==0?'43%':'40%')+";position:Absolute;"+(this.sex==0?"top:25%;left:12%":"top:32%;left:10%")+";z-index:300"
+                    var cloneStyleStr = "width:"+(this.sex==0?'43%':'40%')+";position: Absolute;"+(this.sex==0?"top:25%;left:46%":"top:32%;left:47%")+";transform:scale(-1,1);z-index:301"
                     this.fixPart(e,true,'eye',styleStr,cloneStyleStr)
                     this.hasEye = this._has
                     break;

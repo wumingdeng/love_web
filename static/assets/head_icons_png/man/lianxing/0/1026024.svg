@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="4px" height="8px"
+xml:space="preserve">
+<g id="105" transform="matrix(1, 0, 0, 1, 0, 0)">
+<radialGradient
+id="RadialGradID_665" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00448608, -0.000228882, 0.000228882, 0.00448608, -0.45, 2.9)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FCA783;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FEDEC1;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_665) " d="M0.4,4.25L0.4 4.2L0.5 4L0.5 3.95L0.65 3.05L0.7 2.9L0.7 2.8L0.7 2.65L0.75 2.5L0.8 2.2L0.8 1.95L1.05 0.35L1.1 0.2L2.15 0.15L2.7 0.55L3.25 1.15Q3.85 1.75 3.35 2.65L2.9 3.55L2.7 4.15L2.5 4.85L2.45 4.9L1.85 5.8L1.25 6.3L0.85 6.85L0 6.95L0 6.8L0.05 6.75L0.05 6.7L0.1 5.8L0.1 5.7L0.3 4.8L0.3 4.85Q0.8 5.35 1.4 5.05L2.05 4.4L2.2 4.15L2.35 3.7L2.45 3.25L2.5 2.65L2.1 2.8Q2 2.8 1.85 2.95L1.55 2.95L1.55 2.9L1.75 2.6L1.85 2.6Q2.05 2.6 2.3 2.4L2.55 2.2L2.5 2.05L2.4 1.2L1.1 1.25Q0.95 2 1.15 2.5L1.2 2.75L0.95 3.25L0.85 3.45L0.9 3.65L0.7 4L0.4 4.3L0.4 4.25" />
+<radialGradient
+id="RadialGradID_666" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00375366, -0.000366211, 0.000366211, 0.00375366, 0.3, 3.5)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#EFA06D;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FCC7A5;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_666) " d="M0.4,4.3L0.7 4L0.9 3.65L0.85 3.45L0.95 3.25L1.2 2.75L1.15 2.5Q0.95 2 1.1 1.25L2.4 1.2L2.5 2.05L2.55 2.2L2.3 2.4Q2.05 2.6 1.85 2.6L1.75 2.6L1.55 2.9L1.55 2.95L1.85 2.95Q2 2.8 2.1 2.8L2.5 2.65L2.45 3.25L2.35 3.7L2.2 4.15L2.05 4.4L1.4 5.05Q0.8 5.35 0.3 4.85L0.35 4.85L0.4 4.4L0.35 4.3L0.4 4.25L0.4 4.3" />
+<path style="fill:none;stroke-width:0.05;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#B76340;stroke-opacity:0.501961" d="M1.1,0.2L2.15 0.15L2.7 0.55L3.25 1.15Q3.85 1.75 3.35 2.65L2.9 3.55L2.7 4.15L2.5 4.85L2.45 4.9L1.85 5.8L1.25 6.3L0.85 6.85L0 6.95" />
+</g>
+</svg>

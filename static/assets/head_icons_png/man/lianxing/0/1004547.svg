@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="21px" height="29px"
+xml:space="preserve">
+<g id="73" transform="matrix(1, 0, 0, 1, -59.85, -17.3)">
+<path style="fill:#FEDEC1;fill-opacity:1" d="M80.5,24.95L80.25 28.05L79.45 33.6L78.75 37.3Q78.45 39.05 77.8 40.2L76.4 42.35L74.9 44.05L73.2 45.4L70.95 46.05L70.2 46.1L69.5 46.05Q68.15 45.9 67.25 45.4L65.55 44.05L64.05 42.35L62.65 40.2Q62 39.05 61.65 37.3L61 33.6L60.2 28.05L59.95 24.95Q59.9 23.85 60 22.95L60 22.9L60.05 22.55Q60.4 20.85 62.45 19.25Q64.45 17.6 68.4 17.45L70.2 17.45L72 17.45Q75.95 17.6 78 19.25Q80 20.85 80.35 22.55L80.45 22.9L80.45 22.95L80.5 24.95" />
+<path style="fill:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#ED9C67;stroke-opacity:1" d="M80.45,22.95L80.45 22.9L80.35 22.55Q80 20.85 78 19.25Q75.95 17.6 72 17.45L70.2 17.45L68.4 17.45Q64.45 17.6 62.45 19.25Q60.4 20.85 60.05 22.55L60 22.9L60 22.95Q59.9 23.85 59.95 24.95L60.2 28.05L61 33.6L61.65 37.3Q62 39.05 62.65 40.2L64.05 42.35L65.55 44.05L67.25 45.4Q68.15 45.9 69.5 46.05L70.2 46.1L70.95 46.05L73.2 45.4L74.9 44.05L76.4 42.35L77.8 40.2Q78.45 39.05 78.75 37.3L79.45 33.6L80.25 28.05L80.5 24.95L80.45 22.95z" />
+<radialGradient
+id="RadialGradID_323" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000808716, 0, 0, 0.00134277, 63.55, 38.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F7896F;stop-opacity:0.25098" />
+<stop  offset="1"  style="stop-color:#E1A293;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_323) " d="M63.55,37.05L64 37.4L64.2 38.1L64 38.8L63.55 39.15L63.15 38.8L62.9 38.1L63.15 37.4L63.55 37.05" />
+<radialGradient
+id="RadialGradID_324" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.000793457, 0, 0, 0.00134277, 76.75, 38.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F7896F;stop-opacity:0.25098" />
+<stop  offset="1"  style="stop-color:#E1A293;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_324) " d="M76.15,38.1L76.35 37.4Q76.55 37.05 76.8 37.05L77.2 37.4L77.4 38.1L77.2 38.8L76.8 39.15Q76.55 39.15 76.35 38.8L76.15 38.1" />
+</g>
+</svg>
