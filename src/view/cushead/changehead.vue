@@ -373,8 +373,9 @@ export default {
                     break;
                 case 2:
                     var imgcfg = this.imgcfg.bz[fileName]
-                    console.log(imgcfg)
-                    var styleStr = "transform:scale("+6.9*this.scale+","+6.9*this.scale+");position:Absolute;top:+"+imgcfg.top+";left:"+imgcfg.left+";z-index:200"
+                    var _scale = imgcfg.scale || 6.9
+                    // var styleStr = "transform:scale("+6.9*this.scale+","+6.9*this.scale+");position:Absolute;top:+"+imgcfg.top+";left:"+imgcfg.left+";z-index:200"
+                    var styleStr = "transform:scale("+_scale*this.scale+");position:Absolute;top:+"+imgcfg.top+";left:"+imgcfg.left+";z-index:200"
                     this.fixPartWithSvg(e,'bizi',styleStr)
                     this.hasBz = this._has
                     break;
@@ -452,7 +453,7 @@ export default {
         }
     },
     mounted() {
-        this.sex = this.$store.state.sex || 0
+        this.sex = this.$store.state.sex || 1
         this.color = this.$store.state.color || 0
         if(this.sex == 0){
             this.imgdata =  window.Global.imgData
@@ -462,7 +463,7 @@ export default {
             this.imgcfg =  window.Global.imgCfg_w
             console.log(this.imgcfg.bz)
         }
-        this.selPart(3)
+        this.selPart(2)
         this.$nextTick(() => {
             this.onLoadImg()
         })
